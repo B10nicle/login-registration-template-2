@@ -1,4 +1,4 @@
-## Login and Registration
+# Login and Registration
 
 Special thanks to CodingLab for this awesome design and template!
 
